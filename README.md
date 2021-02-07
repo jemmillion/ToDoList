@@ -1,2 +1,0 @@
-# ToDoList
-make todo-list
